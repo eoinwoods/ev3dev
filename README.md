@@ -1,3 +1,5 @@
+_(Note: this is a manual clone - rather than a Git clone or fork - of the official EV3DEV Python VC Code repo here: https://github.com/ev3dev/vscode-hello-python.git.  I've just not got around to updating the README)._
+
 # vscode-hello-python
 Hello World for [ev3dev] + [Visual Studio Code][code] + [Python]
 
